@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/java-2020-09/workplace/prvocisla/lib/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
